@@ -3,6 +3,10 @@
 <div>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMtTh&langs_count=5&theme=dark&layout=compact">
   <img width="395" src="https://github-readme-stats.vercel.app/api/?username=ArthurMtTh&count_private=true&theme=dark&show_icons=true">
+  <p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurMtTh&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" alt="ArthurMtTh stats card" />
+  </p>
+
 </div>
   
 ##
