@@ -1,10 +1,10 @@
 ### C:\Users\profile>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?ArthurMtTh=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMtTh&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?ArthurMtTh=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurMtTh&repo=convoychat" />
 </a>
   
 ##
