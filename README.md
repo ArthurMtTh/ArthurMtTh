@@ -1,11 +1,9 @@
 ### C:\Users\profile>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<div>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMtTh&langs_count=5&theme=dark&layout=compact">
+  <img width="395" src="https://github-readme-stats.vercel.app/api/?username=ArthurMtTh&count_private=true&theme=dark&show_icons=true">
+</div>
   
 ##
   <h3 align="left">Languages and Tools:</h3>
