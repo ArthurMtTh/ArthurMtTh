@@ -1,8 +1,12 @@
 ### C:\Users\profile>
 
 <div style="align:center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurMtTh&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ArthurMtTh&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" alt="Stats" />
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurMtTh&hide=jupyter%20notebook&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=ArthurMtTh&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" alt="Stats" />
+    </div>
 </div>
   
 ##
